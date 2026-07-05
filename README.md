@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj99900/LEETCODE/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
