@@ -24,8 +24,8 @@ class Solution:
         
         for num in range(1,len(digits)):
             newList = []
+            mappedString = self.dictMpped[int(digits[int(num)])]
             for old in aResultList:
-                mappedString = self.dictMpped[int(digits[int(num)])]
                 for char in mappedString:
                     newList.append(old+char)
             aResultList = newList
