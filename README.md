@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj99900/LEETCODE/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Suraj99900/LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Suraj99900/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suraj99900/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0234-palindrome-linked-list) |
