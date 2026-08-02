@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Suraj99900/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suraj99900/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suraj99900/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Greedy
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suraj99900/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
