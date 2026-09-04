@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suraj99900/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Suraj99900/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
