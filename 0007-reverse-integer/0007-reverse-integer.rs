@@ -11,8 +11,8 @@ impl Solution {
         // revers the x value
         while y != 0 {
             let temp = y % 10;
-            println!("MAX {:?} MIN {:?}", i32::MAX, i32::MIN);
-            println!("sumrev {:?} temp {:?}", sumrev, temp);
+            // println!("MAX {:?} MIN {:?}", i32::MAX, i32::MIN);
+            // println!("sumrev {:?} temp {:?}", sumrev, temp);
             if sumrev > i32::MAX / 10 || (sumrev == i32::MAX / 10 && temp > 7) {
                 return 0;
             }
