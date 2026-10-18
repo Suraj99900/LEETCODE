@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj99900/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Suraj99900/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
