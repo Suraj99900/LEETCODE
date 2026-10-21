@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Suraj99900/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suraj99900/LEETCODE/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj99900/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suraj99900/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj99900/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
