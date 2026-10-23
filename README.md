@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Suraj99900/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
