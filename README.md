@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Suraj99900/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Suraj99900/LEETCODE/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Suraj99900/LEETCODE/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
