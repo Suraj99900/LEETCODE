@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suraj99900/LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Suraj99900/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Suraj99900/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suraj99900/LEETCODE/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suraj99900/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Suraj99900/LEETCODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Suraj99900/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suraj99900/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Suraj99900/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Suraj99900/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suraj99900/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Suraj99900/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Suraj99900/LEETCODE/tree/master/0242-valid-anagram) |
