@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Suraj99900/LEETCODE/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Suraj99900/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suraj99900/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Suraj99900/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Suraj99900/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Suraj99900/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
 | ------- |
