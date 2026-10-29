@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Suraj99900/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Suraj99900/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Suraj99900/LEETCODE/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj99900/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -169,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suraj99900/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
