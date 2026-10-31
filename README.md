@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Suraj99900/LEETCODE/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Suraj99900/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suraj99900/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Suraj99900/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Suraj99900/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
