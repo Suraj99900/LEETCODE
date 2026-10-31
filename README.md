@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Suraj99900/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Suraj99900/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Suraj99900/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj99900/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Suraj99900/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Suraj99900/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Suraj99900/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Suraj99900/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Suraj99900/LEETCODE/tree/master/0283-move-zeroes) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Suraj99900/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
