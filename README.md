@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suraj99900/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Suraj99900/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Suraj99900/LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2742-painting-the-walls](https://github.com/Suraj99900/LEETCODE/tree/master/2742-painting-the-walls) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Suraj99900/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3866-first-unique-even-element](https://github.com/Suraj99900/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Suraj99900/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj99900/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Suraj99900/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2742-painting-the-walls](https://github.com/Suraj99900/LEETCODE/tree/master/2742-painting-the-walls) |
 ## Sorting
 |  |
 | ------- |
